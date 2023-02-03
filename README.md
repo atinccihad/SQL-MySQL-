@@ -1,3 +1,4 @@
+<h3><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"/></h3>
 Mysql Komutları temel seviyede aşağıdaki gibi sayılabilir. 
 Ama daha kapsamlı uygulamalar için bunların parametrelerini ve diğer komutları kullanmak gerekir.
 
