@@ -1,5 +1,5 @@
 <h3><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"/></h3>
-<h4>Mysql Komutları </h4>
+<h3>Mysql Komutları </h3>
 Temel seviyede aşağıdaki gibi sayılabilir.<br> 
 Ama daha kapsamlı uygulamalar için bunların parametrelerini ve diğer komutları kullanmak gerekir.<br>
 CREATE DATABASE: Yeni bir veritabanı üretir<br>
